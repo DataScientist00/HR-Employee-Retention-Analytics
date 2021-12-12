@@ -15,6 +15,7 @@ before it's too late.
 • For this initiative, they only care about permanent (non-temp) employees.
 
 Current Solution
+
 Currently, their employee retention process is very retroactive. Once an employee leaves, he or she 
 takes an "exit interview" and shares reasons for leaving. HR then tries to learn insights from that 
 interview and make changes around the company accordingly.
