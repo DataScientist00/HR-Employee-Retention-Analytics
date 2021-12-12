@@ -1,6 +1,7 @@
 HR - Emplyee-Retention-Analytics
 
 Employee Retention Project
+
 Project Context
 Our client is HR department at a large software company.
 • They are rolling out a new initiative that they call "Proactive Retention."
@@ -8,6 +9,7 @@ Our client is HR department at a large software company.
 • Once these employees are identified, HR can be more proactive in reaching out to them 
 before it's too late.
 • For this initiative, they only care about permanent (non-temp) employees.
+
 Current Solution
 Currently, their employee retention process is very retroactive. Once an employee leaves, he or she 
 takes an "exit interview" and shares reasons for leaving. HR then tries to learn insights from that 
@@ -19,11 +21,10 @@ from an interview depends heavily on the skill of the interviewer.
 employees who have left.
 • The third problem is that they can't be proactive because they are using exit interviews to 
 drive policy changes.
+
 Our Role
 The HR department has hired us as data science consultants. They want to supplement their exit 
 interviews with a more proactive approach.
 • They've asked their business intelligence analysts to provide us a dataset of past 
 employees and their status (still employed or already left).
 • Our task is to build a classification model using that dataset.
-• Because our solution will be complementary to the existing one, and because there's no 
-precedent, we do not have a quantifiable win condition. Just build the best model possibl
